@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/liberty-NFT/static/css/main.631c9eba.css",
+    "main.js": "/liberty-NFT/static/js/main.9f0f4840.js",
+    "static/media/banner-02.png": "/liberty-NFT/static/media/banner-02.19caad1f29b02a36f0f8.png",
+    "static/media/banner-bg.jpg": "/liberty-NFT/static/media/banner-bg.c0f1b6938596c1798665.jpg",
+    "static/media/item-details-01.jpg": "/liberty-NFT/static/media/item-details-01.956cbafd3aeffa66b6a6.jpg",
+    "static/media/create-yours.jpg": "/liberty-NFT/static/media/create-yours.edd790dc22b4f9e6820e.jpg",
+    "static/media/featured-01.jpg": "/liberty-NFT/static/media/featured-01.2acd3d70e0c442e28a2e.jpg",
+    "static/media/featured-03.jpg": "/liberty-NFT/static/media/featured-03.88c5ce47c8c79aad07db.jpg",
+    "static/media/featured-02.jpg": "/liberty-NFT/static/media/featured-02.0cd7221d815b3a1cc61d.jpg",
+    "static/media/dark-bg.jpg": "/liberty-NFT/static/media/dark-bg.610bdcdb7ffb44776eb2.jpg",
+    "static/media/featured-04.jpg": "/liberty-NFT/static/media/featured-04.10e00c8a5e82ff79e18f.jpg",
+    "static/media/explore-bg.jpg": "/liberty-NFT/static/media/explore-bg.ff2359e2adfaa8f0d667.jpg",
+    "static/media/discover-04.jpg": "/liberty-NFT/static/media/discover-04.e11cef5f40f1310f21a9.jpg",
+    "static/media/main-bg.jpg": "/liberty-NFT/static/media/main-bg.78bcf5ff9198f0537177.jpg",
+    "static/media/current-04.jpg": "/liberty-NFT/static/media/current-04.65419d18a169edcf3cc6.jpg",
+    "static/media/current-01.jpg": "/liberty-NFT/static/media/current-01.79643219eb9e71555244.jpg",
+    "static/media/current-02.jpg": "/liberty-NFT/static/media/current-02.60c582dc38449c9bc002.jpg",
+    "static/media/single-author.jpg": "/liberty-NFT/static/media/single-author.74dcd1e3217a0c3cf0a0.jpg",
+    "static/media/collection-01.jpg": "/liberty-NFT/static/media/collection-01.1c3e6bf5dcf9d3adc8fd.jpg",
+    "static/media/current-03.jpg": "/liberty-NFT/static/media/current-03.f2eb8b1131e9191a0b88.jpg",
+    "static/media/discover-02.jpg": "/liberty-NFT/static/media/discover-02.ce79aa239f2c825f382b.jpg",
+    "static/media/discover-01.jpg": "/liberty-NFT/static/media/discover-01.9e7b5fc63de43d4a79af.jpg",
+    "index.html": "/liberty-NFT/index.html",
+    "main.631c9eba.css.map": "/liberty-NFT/static/css/main.631c9eba.css.map",
+    "main.9f0f4840.js.map": "/liberty-NFT/static/js/main.9f0f4840.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.631c9eba.css",
+    "static/js/main.9f0f4840.js"
+  ]
+}
